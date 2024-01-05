@@ -1,0 +1,9 @@
+A primary corollary to this is that part of the major change in practice from previous methods is incorporation of knowledge from each field into the other.
+
+DevOps is also characterized by operations staff making use of many of the same techniques as developers for their systems work, and development staff creating applications designed to work well in an operational environment.
+
+Developer techniques that operations learns to use in a DevOps environment range from using source control to developing infrastructure as code (including testing) to participating in an Agile development process.  Operational concerns built into systems include observability and resilience. Both tend to use continuous integration and delivery as the means of iterating on a solution.
+
+“DevOps” is intended to be maximally inclusive. It doesn’t differentiate between different sysadmin sub-disciplines – “Ops” is a blanket term for systems engineers, system administrators, operations staff, release engineers, DBAs, network engineers, security professionals, and various other subdisciplines and job titles. “Dev” is used as shorthand for front end and back end developers in particular, but really in practice it is even wider and means “all the people involved in developing the product,” which can include Product, QA, and other disciplines.
+
+D
